@@ -14,5 +14,4 @@ const HomeScreen = () => {
     </div>
   );
 };
-t
 export default HomeScreen;
